@@ -1,13 +1,21 @@
-<h1 align="center">Merhaba 👋, ben Yücel</h1>
-<h3 align="center">Harran Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Web geliştirme, yapay zeka ve sistem tasarımıyla ilgileniyorum.</h3>
+<div align="center">
+
+# 👨‍💻 Yücel Dayan
+### Bilgisayar Mühendisliği öğrencisi & Front-End Geliştirici
+
+💡 Web teknolojileri, React ve sistem tasarımıyla ilgileniyorum.  
+🧠 Projeler üzerinden öğrenmeyi seviyorum.  
+🎯 Hedefim: Sade, işlevsel ve etkileyici yazılımlar geliştirmek.
+
+</div>
 
 ---
 
 ### 📬 İletişim
 
 <p align="center">
-  <a href="mailto:ornekmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yücel-dayan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yuceldayan6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yucel-dayan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/users/Yucel#1234" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
@@ -54,12 +62,11 @@
 - 🎓 Bilgisayar Mühendisliği öğrencisiyim  
 - 💻 Web projeleri geliştiriyorum  
 - 🧪 Proje bazlı öğrenmeyi seviyorum  
-- 🌱 Şu an Web tabanlı ve React konularına odaklanıyorum  
-- 🎯 Hedefim: full stack developer olmak
+- 🌱 Şu an React ve sistem tasarımına odaklanıyorum  
+- 🎯 Hedefim: Full stack developer olmak
 
 ---
 
 <p align="center">
-  🖤 Profilimi ziyaret ettiğin için teşekkürler!  
+  🖤 Profilimi ziyaret ettiğin için teşekkürler!
 </p>
-
