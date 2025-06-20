@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Yücel Dayan
-### Bilgisayar Mühendisliği öğrencisi & Front-End Geliştirici
+### Bilgisayar Mühendisliği öğrencisi & Full-Stack Geliştirici
 
 💡 Web teknolojileri, React ve sistem tasarımıyla ilgileniyorum.  
 🧠 Projeler üzerinden öğrenmeyi seviyorum.  
